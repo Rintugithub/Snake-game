@@ -124,4 +124,5 @@ function inputControl(e){
         gameStatus = "Game Started";
         document.getElementById("game-status").innerHTML = gameStatus;
     }
+    console.log("test");
 }
